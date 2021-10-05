@@ -1,2 +1,7 @@
 settings:
-  ignore_escaped_strings: false
+  ignore_escaped_strings: 
+  - "true"
+ paths:
+  - source: .
+    include:
+    - "05.10.md"
