@@ -1,4 +1,5 @@
 settings:
-  ignore_escaped_strings: true
+  ignore_escaped_strings:
+  - "true"
   
 
