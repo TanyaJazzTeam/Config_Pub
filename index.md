@@ -1,4 +1,4 @@
----
+
 layout: post
 title: Web Vitals
 description: Essential metrics for a healthy site
@@ -11,7 +11,7 @@ tags:
   - metrics
   - performance
   - web-vitals
----
+
 
 Optimizing for quality of user experience is key to the long-term success of any
 site on the web. Whether you're a business owner, marketer, or developer, Web
