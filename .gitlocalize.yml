@@ -1,5 +1,8 @@
 synchronize:
   paths:
   - source: .
+    exclude:
+    - "we/*"
     include:
-    - "index.md"
+      - "*"
+    
