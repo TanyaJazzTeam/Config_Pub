@@ -1,6 +1,5 @@
 synchronize:
   paths:
   - source: .
-    exclude:
-      - "we/06.09.json"
-      - "**/*06.09.json"
+    include:
+    - "index.md"
