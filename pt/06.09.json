@@ -26,8 +26,12 @@
       ]
     },
     {
+      "name": "Electricity",
       "sections": [
         {
+          "name": "electrostatics",
+          "complexity": "four ",
+          "interest": "five"
         }
       ]
     }
