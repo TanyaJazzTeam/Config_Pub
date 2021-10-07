@@ -1,1 +1,5 @@
-
+synchronize:
+  paths:
+  - source: .
+    exclude:
+      - "*.json"
