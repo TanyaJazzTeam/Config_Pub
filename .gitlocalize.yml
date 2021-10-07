@@ -2,6 +2,7 @@ synchronize:
   paths:
   - source: .
     exclude:
-    - "*.json"
-    - "we/.json"
- 
+      - "*.json"
+      - "we/.json"
+    include:
+      - "materics-true-false.json"
