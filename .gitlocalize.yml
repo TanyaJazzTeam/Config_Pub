@@ -2,5 +2,6 @@ synchronize:
   paths:
   - source: .
     exclude:
-    - "we"
+    - "*.json"
+    - "we/.json"
  
